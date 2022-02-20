@@ -14,6 +14,7 @@ $(function () {
         autoplaySpeed: 2000,
 
     });
+
     $('.contact-slider').slick({
         slidesToShow: 10,
         slidesToScroll: 10,

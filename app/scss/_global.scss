@@ -10,6 +10,7 @@ body {
 	font-weight: 400;
 	overflow-x: hidden;
 	min-width: 320px;
+	color: $default;
 }
 
 .wrapper {
@@ -46,6 +47,7 @@ body {
 		padding: 0 15px;
 	}
 	button{
+		cursor: pointer;
 		background-color: $title;
 		border: none;
 		width: 8px;
